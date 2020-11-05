@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - enemy
+  - canEnter
+  - test
+  - missile
+  - structure
+  - enemy_objective
+  - resource_point
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - Weapons
+  - Interactable
+  - Enemies
+  - Ground
+  - EnemyProjectiles
+  - FriendlyProjectiles
+  - FriendlyRange
+  - EnemyRange
+  - Buildable
+  - Player
+  - MaterialPickup
+  - Minimap
+  - Placement
+  - BlockPlayer
+  - FriendlyStructures
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
